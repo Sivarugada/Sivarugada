@@ -1,3 +1,0 @@
-i want to revison old things
-
-i tried with :wq! but still those data was saved in this folder
